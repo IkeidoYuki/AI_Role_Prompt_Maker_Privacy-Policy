@@ -50,4 +50,4 @@
 ## 9. お問い合わせ
 本ポリシーに関するお問い合わせは、以下の連絡先までお願いします。  
 **開発者:** Yuki Ikeido  
-**連絡先:** izanagisuisenn@gmail.com
+**連絡先:** yi2025.app.spprt@gmail.com
