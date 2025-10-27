@@ -51,7 +51,7 @@
 
 ## プライバシーポリシー
 
-- [プライバシーポリシー](https://github.com/IkeidoYuki/AI_Role_Prompt_Maker_Privacy-Policy#:~:text=1%20Commit-,privacy%2Dpolicy.md,-Add%20privacy%20policy)
+- [プライバシーポリシー](https://ikeidoyuki.github.io/AI_Role_Prompt_Maker_Privacy-Policy/privacy-policy)
 
 ---
 
